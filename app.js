@@ -1,10 +1,10 @@
 var list = [
 	{
-		title:"吃饭打豆豆",
+		title:"健身",
 		isChecked:false //状态为false，为不选中  任务未完成
 	},
 	{
-		title:"妙味课堂",
+		title:"学习",
 		isChecked:true   //状态为true，为选中    任务完成
 	}
 ];
